@@ -4,7 +4,7 @@ I'm Gaëtan BUSATO, a software Engineer from France ! Currently based in Lyon, I
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Node.js, JavaScript, TypeScript, AWS, Git, React.js, .NET](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
 
 <!--
 **gBusato/gBusato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
