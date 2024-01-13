@@ -2,11 +2,13 @@
 
 I'm Gaëtan BUSATO, a software Engineer from France ! Currently based in Lyon, I do love programming, nature, hiking and paragliding ! Happy father of an amazing daughter 🥰
 
+<div align="center">
 
 ## How to contact me ? 
-<div align="center">
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaetanbusato/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gaetan.busato@gmail.com?subject=Hello%20Gaetan,%20From%20Github)
+
 </div>
 
 
