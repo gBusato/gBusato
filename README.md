@@ -6,7 +6,7 @@ I'm Gaëtan BUSATO, a software Engineer from France ! Currently based in Lyon, I
   
 ## 💻 My Tech Stack:
 
-[![Next.js, Node.js, JavaScript, TypeScript, AWS, Git, React.js, .NET](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Node.js, JavaScript, TypeScript, AWS, Git, React.js, .NET](https://skillicons.dev/icons?i=next,nodejs,js,ts,aws,git,react,cs)](https://skillicons.dev)
 
 </div>
 
